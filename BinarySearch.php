@@ -1,5 +1,5 @@
 <?php
-function binarySearch($key, $array)
+function binarySearch($key, array $array)
 {
     
     $lo = 0;
